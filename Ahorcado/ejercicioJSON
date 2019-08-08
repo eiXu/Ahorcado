@@ -1,0 +1,77 @@
+[
+  {
+    "nombre": "Adrian",
+    "apellido": "Ortiz",
+    "edad": 25,
+    "notas": [
+      {
+        "nota": 5.0,
+        "materia": {
+          "nombre": "Plástica"
+        }
+      },
+      {
+        "nota": 9.0,
+        "materia": {
+          "nombre": "Matemáticas"
+        }
+      },
+      {
+        "nota": 3.0,
+        "materia": {
+          "nombre": "Castellano"
+        }
+      }
+    ]
+  },
+  {
+    "nombre": "Javier",
+    "apellido": "Perez",
+    "edad": 31,
+    "notas": [
+      {
+        "nota": 4.0,
+        "materia": {
+          "nombre": "Castellano"
+        }
+      },
+      {
+        "nota": 5.0,
+        "materia": {
+          "nombre": "Valenciano"
+        }
+      },
+      {
+        "nota": 6.0,
+        "materia": {
+          "nombre": "Inglés"
+        }
+      }
+    ]
+  },
+  {
+    "nombre": "Uriel",
+    "apellido": "Azulejo",
+    "edad": 15,
+    "notas": [
+      {
+        "nota": 5.0,
+        "materia": {
+          "nombre": "Plástica"
+        }
+      },
+      {
+        "nota": 5.0,
+        "materia": {
+          "nombre": "Plástica"
+        }
+      },
+      {
+        "nota": 5.0,
+        "materia": {
+          "nombre": "Plástica"
+        }
+      }
+    ]
+  }
+]
